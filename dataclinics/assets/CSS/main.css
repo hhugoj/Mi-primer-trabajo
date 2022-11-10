@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial, Arial, Helvetica, sans-serif;
+}
+.estiloOpciones li {
+    list-style-type: none;
+}
+
+.miNavbar{
+    background-color: rgb(19, 125, 167);
+}
+
+.estiloOpciones li {
+    display: inline;
+}
+
+.estiloOpciones li button {
+    width: 160px;
+    background-color: darkgray;
+    color: white;
+    font-weight: bold;
+    padding: 15px; 
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+
+}
